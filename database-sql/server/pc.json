@@ -1,0 +1,14 @@
+[
+  {
+    "pc-brand": "alienware",
+    "pc-os": "windows 10"
+  },
+  {
+    "pc-brand": "macbook",
+    "pc-os": "osx"
+  },
+  {
+    "pc-brand": "Lenovo",
+    "pc-os": "Windows 11"
+  }
+]
